@@ -1,0 +1,11 @@
+name: "Skip Intro Plex"
+description: "Add Skip Intro to Plex by Angelo Pescatore!"
+version: "1.0.0"
+slug: "skip_intro_plex"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
